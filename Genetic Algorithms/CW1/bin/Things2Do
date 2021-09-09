@@ -1,0 +1,7 @@
+1.For each value change run the algorithm 30 times	
+2.Average the Best fit from the 30 runs and this gives us the average bestFit for the changed value
+3.Do this for every single value increasing/decreasing the value sistematically
+4.Draw a graph with these values
+5.What is the conclusion from the values?
+6.After Doing this for every single value, combine them with each other and see  what happens
+7.Conclusion again
