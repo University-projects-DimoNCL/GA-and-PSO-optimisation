@@ -1,0 +1,8 @@
+Grade - 68% (68/100)
+The description of the algorithms is minimal and reflects lack of understanding.
+The tuning process is well explained and thorough.However, for the baseline of scenario 2 it would have been better to balance iterations and popsize to 100-100 rather than 10-1000.
+What you call step 3 of tuning seems a bit trial and error and could be more systematic.
+The results are generally well presented, but the final comparison could be more detailed.
+The report makes good use of figures and tables of results.
+
+Dr J Bacardit
